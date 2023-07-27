@@ -80,11 +80,12 @@ p {
 @media(max-width: 500px) {
     
     .container {
+        height: 100vh;
         gap: 5px;
     }
     
     .container > div {
-        height: 100px;
+        height: 100%;
     }
        
     h2 {

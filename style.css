@@ -86,7 +86,7 @@ p {
     
     .container > div {
         height: 100%;
-        background-attachment: fixed;
+        background-attachment: scroll;
     }
        
     h2 {
